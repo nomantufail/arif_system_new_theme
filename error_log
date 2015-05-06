@@ -1,0 +1,2 @@
+[01-Dec-2014 14:20:50 Europe/London] PHP Fatal error:  Call to a member function is_login() on a non-object in /home/zeenomla/public_html/viriklogistics/application/controllers/settings.php on line 19
+[01-Dec-2014 14:21:13 Europe/London] PHP Fatal error:  Call to a member function is_login() on a non-object in /home/zeenomla/public_html/viriklogistics/application/controllers/settings.php on line 19

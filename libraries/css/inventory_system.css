@@ -1,0 +1,37 @@
+.whole_page_container
+{
+    min-height: 700px;
+}
+.list_table
+{
+    border-top: 3px solid lightgray;
+}
+.page_heading_container
+{
+    background-color: lightgray;
+}
+.actual_body_contents
+{
+    margin: 30px;
+}
+.my_table{
+    font-size: 12px;
+}
+.select_box{
+    width: 100%;
+}
+.list_table tbody tr:nth-child(odd) {
+    background-color: rgba(0,0,0,0.06);
+}
+.table_header_row{
+    /*background-color: #006dcc;*/
+    background-color: lightslategray;
+    color: white;
+}
+.total_amount{
+    background-color: lightblue;
+}
+.table_footer_row_totals{
+    background-color: #444444;
+    color: #ffffff;
+}
